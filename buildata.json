@@ -7,11 +7,11 @@
 		"color": "256EFF"
 	},
 	"project": {
-		"name": "Adobe Advertiser AIR SDK",
+		"name": "Adobe AIR Advertiser SDK",
 		"author": "Gabriel Coman",
 		"source": "https://github.com/SuperAwesomeLTD/sa-adobeair-advertiser-sdk",
 		"domain": "",
-		"min": "iOS 8.0+, Android 3.0+"
+		"min": "iOS 8.0+, Android 4.0+"
 	},
 	"company": {
 		"name": "2016, SuperAwesome Ltd",

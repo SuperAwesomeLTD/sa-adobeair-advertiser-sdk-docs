@@ -1,4 +1,4 @@
-AwesomeAds Adobe Advertiser AIR SDK
+AwesomeAds Adobe AIR Advertiser SDK
 ===================================
 
 The AwesomeAds Adobe AIR Advertiser SDK (Software Development Kit) lets you to easily measure installs in your app in a COPPA compliant way.
@@ -18,5 +18,3 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 2
-
-   
